@@ -1,0 +1,8 @@
+# Server settings
+ip = 127.0.0.1						# IP Address
+port = 32000						# Port
+windows_file = pepe_autoupdate.exe			# Windows binary file to send
+linux_file = pepe_autoupdate				# Linux binary file to send
+major_version = 1					# Major version of app
+minor_version = 0					# Minor version of app
+patch_version = 1					# Patch version of app
